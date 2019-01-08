@@ -14,6 +14,10 @@ Cross platform ActionSheet. This component implements a custom ActionSheet  and 
   </tbody>
 </table>
 
+## Changelog
+
+* 增加了主要选项外部样式`optionsWrapper` [diff](https://github.com/chenjinya/react-native-actionsheet/commit/8f7b01854f30ecc97d5052559e1298f101fb4f60)
+
 ## Install
 
 ```
